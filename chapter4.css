@@ -1,0 +1,43 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+header{
+  height:50px;
+  background-color:red;
+}
+
+.main-visual{
+  height:500px;
+  background-color:orange;
+}
+
+.contents{
+  width:960px;
+  height:1400px;
+  margin:0 auto;
+  display:flex;
+  justify-content:center;
+}
+
+.box1{
+  width:230px;
+  background-color:lightgreen;
+}
+
+.box2{
+  width:500px;
+  background-color:green;
+}
+
+.box3{
+  width:230px;
+  background-color:lightgreen;
+}
+
+footer{
+  height:100px;
+  background-color:blue;
+}
